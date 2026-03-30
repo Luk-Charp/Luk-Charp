@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Luk-Charp?tab=repositories](https://github.com/Luk-Charp?tab=repositories)**
 
-- 📄 Know about my experiences **[(https://drive.google.com/file/d/1JzTnIibAhUdy0JAMQU_YWcgP6wlwhCuZ/view?usp=drive_link)](https://drive.google.com/file/d/1ZUdWwo23ru-QTjmWILp8pCtCf0tAyPWA/view?usp=drive_link)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1JzTnIibAhUdy0JAMQU_YWcgP6wlwhCuZ/view?usp=drive_link](https://drive.google.com/file/d/1ZUdWwo23ru-QTjmWILp8pCtCf0tAyPWA/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
