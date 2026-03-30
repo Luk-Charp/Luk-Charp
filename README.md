@@ -1,6 +1,6 @@
 # Hi 🤠, I'm Lucas
 
-### A student interested in software development and computer science, creating web projects and applications
+### An Engineering Student interested in software development and computer science, creating web projects and applications
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Luk-Charp?tab=repositories](https://github.com/Luk-Charp?tab=repositories)**
 
