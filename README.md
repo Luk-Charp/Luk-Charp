@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lucas
+# Hi 🤠, I'm Lucas
 
 ### A student interested in software development and computer science, creating web projects and applications
 
